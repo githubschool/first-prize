@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Scotland FC is not that good sadly!
+New change about Scotland being not too bad at football!  
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
