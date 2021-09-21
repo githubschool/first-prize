@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Hi All!
+Hi Class!
 
 ![codercat](https://octodex.github.com/images/codercat.jpg)
 {: .center}
