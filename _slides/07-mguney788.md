@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to my page"
 ---
 
-Caption here
+Bir gün herkes Beşiktaş' lı olacal :)
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
