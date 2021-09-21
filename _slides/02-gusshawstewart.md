@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+New change about Scotland being not too bad at football!  
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
